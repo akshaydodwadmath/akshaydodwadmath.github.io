@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Master's in Computer Science student at Saarland University. The focus of my degree has been on AI-related subjects such as Machine Learning, Computer Vision and Reinforcement Learning. 
+Hello! I am Akshay, and I am currently pursuing a Master degree in Computer Science at Saarland University. My academic pursuits have primarily revolved around AI-related subjects such as Machine Learning, Computer Vision and Reinforcement Learning. 
 
 I have done my thesis at <a href="https://machineteaching.mpi-sws.org/index.html">Machine Teaching Group</a> at the <a href="https://www.mpi-sws.org/">Max Planck Institute of Software Systems </a> under the supervision of Dr. <a href="https://www.mpi-sws.org/people/adishs/">Adish Singla </a>. My thesis topic was "Towards Synthesizing Qualitative and Diverse Programs for Block-Based Visual Programming", and involved techniques of neural program synthesis and reinforcement learning.
 
