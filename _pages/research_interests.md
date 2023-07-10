@@ -1,9 +1,6 @@
 ---
-permalink: /researchInterests/
+layout: archive
 title: "Research Interests"
-excerpt: "Research Interests"
+permalink: /researchInterests/
 author_profile: true
-redirect_from: 
-  - /researchInterests/
-  - /researchInterests.html
 ---
