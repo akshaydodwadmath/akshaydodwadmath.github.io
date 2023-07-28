@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am Akshay, and I am currently pursuing a Master degree in Computer Science at Saarland University. My academic pursuits have primarily revolved around AI-related subjects such as Machine Learning, Computer Vision and Reinforcement Learning. 
 
-I have done my thesis at <a href="https://machineteaching.mpi-sws.org/index.html">Machine Teaching Group</a> at the <a href="https://www.mpi-sws.org/">Max Planck Institute of Software Systems </a> under the supervision of Dr. <a href="https://www.mpi-sws.org/people/adishs/">Adish Singla </a>. My thesis topic was "Towards Synthesizing Qualitative and Diverse Programs for Block-Based Visual Programming", and involved techniques of neural program synthesis and reinforcement learning.
+I have done my thesis at <a href="https://machineteaching.mpi-sws.org/index.html">Machine Teaching Group</a> at the <a href="https://www.mpi-sws.org/">Max Planck Institute of Software Systems </a> under the supervision of Dr. <a href="https://www.mpi-sws.org/people/adishs/">Adish Singla </a>. My thesis topic was "Towards Synthesizing Qualitative and Diverse Programs for Block-Based Visual Programming", and involved techniques of neural program synthesis and reinforcement learning. See [here](http://akshaydodwadmath.github.io/files/Akshay_Thesis.pdf) for more details.
 
 During my degree, I have also worked on a research project at <a href="https://cispa.de/en/">CISPA</a> under the supervision of Dr. <a href="https://cispa.de/en/people/c01sest">Sebastian Stich</a> in the domain of privacy-preserving machine learning. See our paper <a href="https://openreview.net/forum?id=NvlUqen8Cya">here</a> for more details.
 
