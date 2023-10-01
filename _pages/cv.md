@@ -18,7 +18,7 @@ Work experience
 ======
 * Present: Research Assistant
   * Max Planck Institute for Software Systems
-  * Interests: Neural Program Synthesis, Reinforcement Learning, AI for Education
+  * Interests: Deep Learning, AI for Education
   * Supervisor: Dr. Adish Singla
 
 * 2022: Research Assistant
@@ -28,6 +28,6 @@ Work experience
     
 * 2017-2020: Senior Engineer
   * Continental/ Valeo
-  * Interests: Algorithm Integration, Human Machine Interface
+  * Interests: Algorithm Development, Human Machine Interface
   
 
